@@ -2,16 +2,13 @@
 
 ## Cbuddy
 
-<script type="text/javascript"
-    id="botcopy-embedder-d7lcfheammjct"
-    class="botcopy-embedder-d7lcfheammjct" 
-    data-botId="5e18802fe430ce05a4d30867"
->
-    var s = document.createElement('script'); 
-    s.type = 'text/javascript'; s.async = true; 
-    s.src = 'https://widget.botcopy.com/js/injection.js'; 
-    document.getElementById('botcopy-embedder-d7lcfheammjct').appendChild(s);
-</script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="C-buddy"
+  agent-id="b66222ae-e3f4-46ce-8590-e52263a120ca"
+  language-code="it"
+></df-messenger>
 
 You can use the [editor on GitHub](https://github.com/DevilSeven7/cbuddy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
