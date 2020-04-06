@@ -9,8 +9,8 @@
 <a href="https://ibb.co/rfv18z3"><img align="center" src="https://i.ibb.co/h1CtQ4c/7-E9-A2-A2-B-67-C4-473-F-B559-0-D2-BC1-D3-E231.jpg" alt="7-E9-A2-A2-B-67-C4-473-F-B559-0-D2-BC1-D3-E231" border="0"></a>
 
 ## Iniziamo 🚀
-Scopri tutte le funzionalità aprendo l'icona in basso a destra 💬
+Scopri tutte le funzionalità aprendo il messaggio in basso a destra 💬
 
-Quello è il mio modo di paralre con te!
+Quello è il mio modo di parlare con te!
 
 
