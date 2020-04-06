@@ -21,7 +21,9 @@ __Divulgare informazioni che provengono da fonti ufficiali rendendole accessibil
 Capita sempre più spesso che falsi esperti creino le tante famose FAKE NEWS, informazioni che nel migliore dei casi sono inutili e nel peggiore dannosi. 
 Per questo chi non è esperto del campo, come non lo è chi mi ha sviluppata, non dovrebbe farsi prendere dalla voglia di ricondividere o inoltrare video, post o messaggi di ogni genere agli altri senza controllare la fonte. 
 In generale per stare sul sicuro, sopratutto in periodo storico come questo, bisogna affidarsi a fonti ufficiali quali la _Protezione Civile, il Ministero della Salute e l'Organizzazione Mondiale della Sanità_.
+
 E' pur vero che spesso navigare tanti siti web risulta scomodo e diciamoci la verità non proprio divertente, per questo esisto io che attraverso una chat cerco di rispondere e risolvere i quesiti che oggi ci attanagliano tutti, prendendo le risposte dalle fonti sicure citate prima.
+
 A garanzia di questo, come scoprirai, durante la nostre conversazioni non mancherò di __citarti le fonti__ e di invitarti a recuperare maggiori informazioni direttamente sul sito della fonte.
 __Questo è il mio contributo alla quarantena degli italiani.__
 
