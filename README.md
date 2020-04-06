@@ -6,7 +6,7 @@
   language-code="it"
 ></df-messenger>
 
-<a href="https://ibb.co/rfv18z3"><img align="center" src="https://i.ibb.co/h1CtQ4c/7-E9-A2-A2-B-67-C4-473-F-B559-0-D2-BC1-D3-E231.jpg" alt="7-E9-A2-A2-B-67-C4-473-F-B559-0-D2-BC1-D3-E231" border="0"></a>
+<a href="https://ibb.co/kJdW2gn"><img src="https://i.ibb.co/m0xM5Cs/3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0.jpg" alt="3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0" border="0"></a>
 
 ## Iniziamo 🚀
 Scopri tutte le funzionalità aprendo il messaggio in basso a destra 💬
@@ -14,3 +14,16 @@ Scopri tutte le funzionalità aprendo il messaggio in basso a destra 💬
 Quello è il mio modo di parlare con te!
 
 
+### Perchè sono stata creata ?
+Il progetto C-Buddy nasce con il semplice intento di contribuire ad una grande causa:
+__Divulgare informazioni che provengono da fonti ufficiali rendendole accessibili a chiunque__
+
+Capita sempre più spesso che falsi esperti creino le tante famose FAKE NEWS, informazioni che nel migliore dei casi sono inutili e nel peggiore dannosi. 
+Per questo chi non è esperto del campo, come non lo è chi mi ha sviluppata, non dovrebbe farsi prendere dalla voglia di ricondividere o inoltrare video, post o messaggi di ogni genere agli altri senza controllare la fonte. 
+In generale per stare sul sicuro, sopratutto in periodo storico come questo, bisogna affidarsi a fonti ufficiali quali la Protezione Civile, il Ministero della Salute e l'Organizzazione Mondiale della Sanità.
+E' pur vero che spesso navigare tanti siti web risulta scomodo e diciamoci la verità non proprio divertente, per questo esisto io che attraverso una chat cerco di rispondere e risolvere i quesiti che oggi ci attanagliano tutti, prendendo le risposte dalle fonti sicure citate prima.
+A garanzia di questo, come scoprirai, durante la nostre conversazioni non mancherò di citarti le fonti e di invitarti a recuperare maggiori informazioni direttamente sul sito della fonte.
+Questo è il mio contributo alla quarantena degli italiani.
+E ricordati che un popolo informato è un popolo consapevole,
+un popolo consapevole è un popolo unito
+e un popolo unito può affrontare ogni difficoltà sociale.
