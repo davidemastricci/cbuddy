@@ -9,8 +9,9 @@
 
 <style>
   df-messenger {
-   --df-messenger-bot-message: #7EBF65;
+   
    --df-messenger-button-titlebar-color: #67C0BE;
+  
   }
 </style>
 
