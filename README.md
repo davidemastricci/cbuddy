@@ -6,6 +6,13 @@
   agent-id="b66222ae-e3f4-46ce-8590-e52263a120ca"
   language-code="it"
 ></df-messenger>
+<style>
+  df-messenger {
+   --df-messenger-bot-message: #7EBF65;
+   --df-messenger-button-titlebar-color: #67C0BE;
+   --df-messenger-send-icon: #7EBF65;
+  }
+</style>
 
 <a href="https://ibb.co/kJdW2gn"><img src="https://i.ibb.co/m0xM5Cs/3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0.jpg" alt="3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0" border="0"></a>
 
