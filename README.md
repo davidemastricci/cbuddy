@@ -6,11 +6,11 @@
   agent-id="b66222ae-e3f4-46ce-8590-e52263a120ca"
   language-code="it"
 ></df-messenger>
+
 <style>
   df-messenger {
    --df-messenger-bot-message: #7EBF65;
    --df-messenger-button-titlebar-color: #67C0BE;
-   --df-messenger-send-icon: #7EBF65;
   }
 </style>
 
