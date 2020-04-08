@@ -2,6 +2,7 @@
 <df-messenger
   intent="WELCOME"
   chat-title="C-buddy"
+  chat-icon="https://i.ibb.co/Jxw5rX5/11122-C89-0230-47-CA-B9-E2-F1-E4-DE2-C9173-removebg-preview.png"
   agent-id="b66222ae-e3f4-46ce-8590-e52263a120ca"
   language-code="it"
 ></df-messenger>
