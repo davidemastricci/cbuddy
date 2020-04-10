@@ -41,3 +41,7 @@ __Questo è il mio contributo alla quarantena degli italiani.__
 _E ricordati che un popolo informato è un popolo consapevole,
 un popolo consapevole è un popolo unito
 e un popolo unito può affrontare ogni difficoltà sociale._
+
+### Aggiornamenti (da NERD) progetto Cbuddy
+[10-04-2020] Aggiunta di pulsanti nella chat che rendono l'interazione immediata.
+[07-04-2020] Rilascio prima versione.
