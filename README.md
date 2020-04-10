@@ -43,13 +43,13 @@ un popolo consapevole è un popolo unito
 e un popolo unito può affrontare ogni difficoltà sociale._
 
 ### Aggiornamenti (da NERD) progetto Cbuddy
-[10-04-2020] Migliorata interazione, risoluzione di piccoli bug, nuova veste grafica e una nuova funzionalità.
+__[10-04-2020]__ Migliorata interazione, risoluzione di piccoli bug, nuova veste grafica e una nuova funzionalità.
 
 - Aggiunti pulsanti e link che appariranno durante la conversazione per rendere l'intezione immediata;
 - Aggiunto l'avatar di Cbuddy anche alla bubble e rinnovati colori di grafica.
 - Recupero di informazioni su cosa è il COVID-19
 
-[06-04-2020] Fuoriscita dalla versione alpha e messa in produzione con le funzionalità di base:
+__[06-04-2020]__ Fuoriscita dalla versione alpha e messa in produzione con le funzionalità di base:
 
 - Ricerca dati (livello nazionale) dei nuovi contagiati, dei morti e dei guarti giorno per giorno;
 - Ricerca dati (livello regionale) dei nuovi contagiati, dei morti e dei guarti giorno per giorno;
