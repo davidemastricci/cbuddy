@@ -42,7 +42,7 @@ _E ricordati che un popolo informato è un popolo consapevole,
 un popolo consapevole è un popolo unito
 e un popolo unito può affrontare ogni difficoltà sociale._
 
-### Aggiornamenti (da NERD) progetto C-Buddy
+### Aggiornamenti (da NERD) progetto C-Buddy 👨‍💻
 __[10-04-2020]__ Migliorata interazione, risoluzione di piccoli bug, nuova veste grafica e una nuova funzionalità.
 
 - Aggiunti pulsanti e link che appariranno durante la conversazione per rendere l'intezione immediata;
