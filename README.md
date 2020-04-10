@@ -52,4 +52,3 @@ e un popolo unito può affrontare ogni difficoltà sociale._
 - Reperimento consigli per la quarantena;
 - Richiesta autocertificazione;
 - Informazioni su cosa è il COVID-19
--
