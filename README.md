@@ -42,11 +42,11 @@ _E ricordati che un popolo informato è un popolo consapevole,
 un popolo consapevole è un popolo unito
 e un popolo unito può affrontare ogni difficoltà sociale._
 
-### Aggiornamenti (da NERD) progetto Cbuddy
+### Aggiornamenti (da NERD) progetto C-Buddy
 __[10-04-2020]__ Migliorata interazione, risoluzione di piccoli bug, nuova veste grafica e una nuova funzionalità.
 
 - Aggiunti pulsanti e link che appariranno durante la conversazione per rendere l'intezione immediata;
-- Aggiunto l'avatar di Cbuddy anche alla bubble e rinnovati colori di grafica.
+- Aggiunto l'avatar di C-Buddy anche alla bubble e rinnovati colori di grafica.
 - Recupero di informazioni su cosa è il COVID-19
 
 __[06-04-2020]__ Fuoriscita dalla versione alpha e messa in produzione con le funzionalità di base:
