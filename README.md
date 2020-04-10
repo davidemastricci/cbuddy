@@ -43,7 +43,10 @@ un popolo consapevole è un popolo unito
 e un popolo unito può affrontare ogni difficoltà sociale._
 
 ### Aggiornamenti (da NERD) progetto Cbuddy
-[10-04-2020] Aggiunta di pulsanti nella chat che rendono l'interazione immediata.
+[10-04-2020] Migliorata interazione, risoluzione di piccoli bug, nuova veste grafica.
+
+- Aggiunti pulsanti e link che appariranno durante la conversazione per rendere l'intezione immediata;
+- Aggiunto l'avatar di Cbuddy anche alla bubble e rinnovati colori di grafica.
 
 [06-04-2020] Fuoriscita dalla versione alpha e messa in produzione con le funzionalità di base:
 
