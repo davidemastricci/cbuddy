@@ -45,4 +45,11 @@ e un popolo unito può affrontare ogni difficoltà sociale._
 ### Aggiornamenti (da NERD) progetto Cbuddy
 [10-04-2020] Aggiunta di pulsanti nella chat che rendono l'interazione immediata.
 
-[07-04-2020] Rilascio prima versione.
+[06-04-2020] Fuoriscita dalla versione alpha e messa in produzione con le funzionalità di base:
+
+- Ricerca dati (livello nazionale) dei nuovi contagiati, dei morti e dei guarti giorno per giorno;
+- Ricerca dati (livello regionale) dei nuovi contagiati, dei morti e dei guarti giorno per giorno;
+- Reperimento consigli per la quarantena;
+- Richiesta autocertificazione;
+- Informazioni su cosa è il COVID-19
+-
