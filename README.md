@@ -44,4 +44,5 @@ e un popolo unito può affrontare ogni difficoltà sociale._
 
 ### Aggiornamenti (da NERD) progetto Cbuddy
 [10-04-2020] Aggiunta di pulsanti nella chat che rendono l'interazione immediata.
+
 [07-04-2020] Rilascio prima versione.
