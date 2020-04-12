@@ -1,7 +1,12 @@
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1">
 </script>
 
-
+<df-messenger
+  intent="WELCOME"
+  chat-title="C-buddy"
+  agent-id="b66222ae-e3f4-46ce-8590-e52263a120ca"
+  language-code="it"
+></df-messenger>
 
 <style>
   df-messenger {
