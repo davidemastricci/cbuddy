@@ -15,7 +15,7 @@
   }
 </style>
 
-<a href="https://ibb.co/kJdW2gn"><img src="https://i.ibb.co/m0xM5Cs/3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0.jpg" alt="3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0" border="0"></a>
+<a href="https://ibb.co/jZkpxfq"><img src="https://i.ibb.co/LhdGqRB/3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0.jpg" alt="3-B5-CFE82-A8-AF-4-AE9-916-C-979-E16-E82-FF0" border="0"></a>
 
 ## Iniziamo 🚀
 Scopri tutte le funzionalità aprendo il messaggio in basso a destra 💬
