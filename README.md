@@ -46,6 +46,11 @@ e un popolo unito può affrontare ogni difficoltà sociale._
 
 ### Aggiornamenti (da NERD) progetto C-Buddy 👨‍💻
 
+__[16-04-2020]__ Nuove funzionalità aggiunte e migliorata l'esperinza di navigazione tra i veri argomenti:
+
+- Ricerca delle informazioni per regione (solo i casi positivi totali)
+- Ricerca infomrazioni riguardo la durata della quarantena
+
 __[12-04-2020]__ Aggiunta regole da rispettare per non infettarsi
 
 __[10-04-2020]__ Migliorata interazione, risoluzione di piccoli bug, nuova veste grafica e una nuova funzionalità.
