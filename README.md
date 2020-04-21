@@ -46,6 +46,10 @@ e un popolo unito può affrontare ogni difficoltà sociale._
 
 ### Aggiornamenti (da NERD) progetto C-Buddy 👨‍💻
 
+__[21-04-2020]__ Nuova funzionalità aggiunta e miglioramento del saluto inziale:
+
+  - Ricerca delle informazioni sulle mascherine
+
 __[16-04-2020]__ Nuove funzionalità aggiunte e migliorata l'esperinza di navigazione tra i veri argomenti:
 
 - Ricerca delle informazioni per regione (solo i casi positivi totali)
