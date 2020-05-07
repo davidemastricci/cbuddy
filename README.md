@@ -44,6 +44,15 @@ _E ricordati che un popolo informato è un popolo consapevole,
 un popolo consapevole è un popolo unito
 e un popolo unito può affrontare ogni difficoltà sociale._
 
+### Contribuisci
+
+Se tu piace il progetto puoi contrinuire:
+
+- Mettendo mi piace alla [Pagina Facebook](https://www.facebook.com/pg/cBuddyBot/) e condividerla
+- Lasciarmi una raccomandazione sempre sulla [pagina](https://www.facebook.com/pg/cBuddyBot/)
+- Entrare nel team di test delle funzionalità per avere delle anteprime (basta scrivermi su [messenger](m.me/cBuddyBot))
+
+
 ### Aggiornamenti (da NERD) progetto C-Buddy 👨‍💻
 
 __[21-04-2020]__ Nuova funzionalità aggiunta e miglioramento del saluto inziale:
@@ -69,3 +78,13 @@ __[06-04-2020]__ Fuoriscita dalla versione alpha e messa in produzione con le fu
 - Ricerca dati (livello regionale) dei nuovi contagiati, dei morti e dei guarti giorno per giorno;
 - Reperimento consigli per la quarantena;
 - Richiesta autocertificazione;
+
+### Note dello sviluppatore
+
+Ciao, se sei arrivato a leggere fin qui ti faccio i miei complimenti. 
+Probabilente il progetti ti interessa davvero. 
+Sono attualmente in cerca di collaboratori per poter far crescere questa iniziativa, in partivolare cerco:
+
+- un persona che mi aiuti a gestire la comunicazione sulla pagina Facebook e a breve anche su un'altra piattafoma.
+
+Se sei interessato\a, scrivimi pure usando messenger della [pagina Facebook](m.me/cBuddyBot).
