@@ -87,4 +87,4 @@ Sono attualmente in cerca di collaboratori per poter far crescere questa iniziat
 
 - un persona che mi aiuti a gestire la comunicazione sulla pagina Facebook e a breve anche su un'altra piattafoma.
 
-Se sei interessato\a, scrivimi pure usando messenger della [pagina Facebook](m.me/cBuddyBot).
+Se sei interessato\a, scrivimi pure usando messenger della [pagina Facebook](https://www.messenger.com/t/cBuddyBot).
