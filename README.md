@@ -50,7 +50,7 @@ Se tu piace il progetto puoi contrinuire:
 
 - Mettendo mi piace alla [Pagina Facebook](https://www.facebook.com/pg/cBuddyBot/) e condividerla
 - Lasciarmi una raccomandazione sempre sulla [pagina](https://www.facebook.com/pg/cBuddyBot/)
-- Entrare nel team di test delle funzionalità per avere delle anteprime (basta scrivermi su [messenger](m.me/cBuddyBot))
+- Entrare nel team di test delle funzionalità per avere delle anteprime (basta scrivermi su [messenger](https://www.messenger.com/t/cBuddyBot))
 
 
 ### Aggiornamenti (da NERD) progetto C-Buddy 👨‍💻
